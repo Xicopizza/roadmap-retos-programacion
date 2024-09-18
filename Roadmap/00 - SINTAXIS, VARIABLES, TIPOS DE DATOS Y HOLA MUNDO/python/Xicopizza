@@ -1,0 +1,23 @@
+#https://python.org
+
+#este es un comentario en una línea
+
+""""este es un comentario en varias lineas
+hola"""
+
+'''este es otro comentario en varias lineas
+hola'''
+
+variable = 0
+
+CONSTANTE = 3.14
+
+entero = 45
+
+decimal = 1.5
+
+booleano = True
+
+cadena = "hola soy una cadena"
+
+print("Hola, Python")
